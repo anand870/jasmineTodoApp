@@ -1,0 +1,32 @@
+{
+  "name": "jasmineTodoApp",
+  "version": "0.0.0",
+  "description": "Testing Todo app with jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anand870/jasmineTodoApp.git"
+  },
+  "keywords": [
+    "jasmine",
+    "todo"
+  ],
+  "author": "Rohit Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anand870/jasmineTodoApp/issues"
+  },
+  "homepage": "https://github.com/anand870/jasmineTodoApp",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.8.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1",
+    "grunt-open": "^0.2.3",
+    "matchdep": "^0.3.0"
+  }
+}

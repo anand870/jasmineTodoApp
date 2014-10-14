@@ -1,0 +1,29 @@
+{
+  "name": "jasmineTodoApp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/anand870/jasmineTodoApp",
+  "authors": [
+    "rohit-htc <rohit.anand.hindustantimes.com>"
+  ],
+  "description": "Todo app test with jasmine",
+  "main": "index.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "todo",
+    "jasmine"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2"
+  }
+}
